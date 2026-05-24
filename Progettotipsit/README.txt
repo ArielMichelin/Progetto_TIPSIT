@@ -129,11 +129,3 @@ Se usi Raspberry Pi installa le dipendenze di sistema:
   sudo apt-get update
   sudo apt-get install libgl1-mesa-glx libhdf5-dev libhdf5-serial-dev \
     libcblas-dev libatlas-base-dev libjasper-dev
-
-
-
-Praticamente: prendi frame → applica filtro → disegna HUD/overlay → mostra
-a schermo. Se registri, scrivi frame su file MP4. Se dai screenshot, salva
-JPEG con timestamp.
-
-Facile.
